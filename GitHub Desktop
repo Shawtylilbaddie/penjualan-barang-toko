@@ -1,4 +1,4 @@
-	def main_menu():
+	def main_menu():desktop
     # membuat daftar menu pada kasir
     print('=' * 10, 'MAIN MENU APLIKASI KASIR', '=' * 10)
     print('selamat datang di aplikasi kasir')
